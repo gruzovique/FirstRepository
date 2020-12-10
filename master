@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Terraria</title>
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<a href="index.html"><img src="img/logo.png" alt="Terraria" class="logo">
+				<nav>
+					<ul class="menu">
+						<li>
+							<a href="index.html">Главная</a>
+						</li>
+							<li>
+							<a href="news.html">Новости</a>
+						</li>
+							<li>
+							<a href="about.html">Другое</a>
+						</li>
+							<li>
+							<a href="media.html">Боссы</a>
+						</li>
+							<li>
+							<a href="podderjka.html">Поддержка</a>
+						</li>
+
+					</ul>
+				</nav>
+		</div>
+	</header>
+	<div class="content">
+		<iframe width="646" height="364" src="https://www.youtube.com/embed/-nXdtDgpPeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div class="text">
+		<p>
+		Копай, борись, строй!<br>
+	Сам мир у вас под рукой, когда<br> вы боретесь за выживание, удачу<br> и славу. Погрузитесь глубоко в<br> кавернозные просторы, ищите все<br> более сильных противников, чтобы<br> испытать свои силы в бою или<br> постройте свой собственный<br> город - В Мире Террарии выбор<br> за вами!					<br>
+	<br>
+	Terraria - это уникальное игровое<br> приключение, в котором элементы<br> классических экшенов и свобода<br> творчества в стиле «песочницы»<br> уникальны, как и сами игроки!
+	</p>
+		</div>
+	</div>
+	 <div class="newstwo">
+                        <div class="news">
+                            <a href="news1.html"><img src="img/131.png" alt=""></a>
+                            <h3>Terraria 1.3.1 доступна для PS 4 и Xbox One!</h3>
+                            <p> Ознакомьтесь с последними добавлениями контента и исправлениями ошибок в последнем обновлении консоли!</p>
+                        </div>
+                        <div class="news">
+                            <a href="news2.html"><img src="img/alpha.png" alt=""></a><h3>Terraria Mobile 1.3 достигает альфа!</h3>
+                            <p>Mobile 1.3 - важная веха, приближающаяся к выпуску! Селективная бета информация здесь!</p>
+                        </div>
+                    </div>
+
+	<div class="footer1">
+			
+			<p>© 2019 Re-Logic. Все права защищены</p>
+
+	</div>
+</body>
+</html>
